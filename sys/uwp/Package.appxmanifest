@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Package xmlns="http://schemas.microsoft.com/appx/manifest/foundation/windows10" xmlns:mp="http://schemas.microsoft.com/appx/2014/phone/manifest" xmlns:uap="http://schemas.microsoft.com/appx/manifest/uap/windows10" IgnorableNamespaces="uap mp">
-  <Identity Name="56403BartletSoftware.Nethack" Publisher="CN=8620C00C-77F1-46FC-8826-0D3AC2901CF6" Version="1.1.7.0" />
+  <Identity Name="56403BartletSoftware.Nethack" Publisher="CN=8620C00C-77F1-46FC-8826-0D3AC2901CF6" Version="1.1.8.0" />
   <mp:PhoneIdentity PhoneProductId="97f9055b-4137-48f2-90b2-a1d5e907fffe" PhonePublisherId="00000000-0000-0000-0000-000000000000" />
   <Properties>
     <DisplayName>Nethack</DisplayName>
@@ -25,7 +25,4 @@
       </uap:VisualElements>
     </Application>
   </Applications>
-  <Capabilities>
-    <Capability Name="internetClient" />
-  </Capabilities>
 </Package>
